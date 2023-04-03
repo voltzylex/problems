@@ -9,4 +9,4 @@ class Solution {
         
         return sum*(sum+1)/2;
     }
-}fdsfsd
+}
